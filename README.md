@@ -1,0 +1,2 @@
+# RickAndMortyAPI
+React redux app
